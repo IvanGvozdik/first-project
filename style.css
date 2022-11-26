@@ -1,0 +1,58 @@
+p{
+    color: aqua;
+}
+
+
+.page {
+    box-sizing: border-box;
+}
+
+.header{
+
+}
+
+.menu{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    display: flex;
+    
+}
+
+.content {
+
+}
+
+.footer {
+
+}
+
+.header__line{
+    
+    background-color: brown;
+    width: 100%;
+    height: 20px;
+}
+
+.menu-home {
+   
+}
+
+.menu-other {
+    
+}
+
+.menu-block{
+    width: 120px;
+    height: 60px;
+    border: 1px solid rgb(131, 30, 30);
+    background-color: rgb(120, 30, 30);
+}
+
+.menu-home__button {
+
+}
+
+.menu-other__button {
+    
+}
